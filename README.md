@@ -7,7 +7,8 @@ I love Zen Browser, Go and Nix!<br />
 
 ## Status
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<p align="center">
+
+<p align="left">
   <a href="https://x.com/dayu255">
     <img height="30" src="https://img.shields.io/twitter/follow/dayu255?style=plastic&logo=x&label=%40dayu255&color=blue" />
   </a>
@@ -21,6 +22,7 @@ I love Zen Browser, Go and Nix!<br />
 
 ## Stats
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <p align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dayu255&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayu255&theme=2077)
