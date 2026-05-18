@@ -24,10 +24,11 @@ I love Zen Browser, Go and Nix!<br />
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dayu255&theme=2077" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayu255&theme=2077" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dayu255&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dayu255&theme=2077" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dayu255&theme=2077&utcOffset=9" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dayu255&theme=2077">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dayu255&theme=2077" />
 </p>
 
 ## Basic skills
