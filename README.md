@@ -10,13 +10,13 @@ I love Zen Browser, Go and Nix!<br />
 
 <p align="left">
   <a href="https://x.com/dayu255">
-    <img height="30" src="https://img.shields.io/twitter/follow/dayu255?style=plastic&logo=x&label=%40dayu255&color=blue" />
+    <img height="30" src="https://img.shields.io/twitter/follow/dayu255?style=plastic&logo=x&label=%40dayu255&color=#03fcdf" />
   </a>
   <a href="https://github.com/dayu255">
-    <img height="30" src="https://img.shields.io/github/followers/dayu255?label=follow&logo=github&style=flat" />
+    <img height="30" src="https://img.shields.io/github/followers/dayu255?label=follow&logo=github&style=flat&color=#03fcdf" />
   </a>
   <a href="https://github.com/dayu255">
-    <img height="30" src="https://komarev.com/ghpvc/?username=dayu255&color=blue" />
+    <img height="30" src="https://komarev.com/ghpvc/?username=dayu255&color=#03fcdf" />
   </a>
 </p>
 
