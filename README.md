@@ -1,13 +1,15 @@
 <h3 align="left">Computer science students in Japan</h3>
 
-I love Zen Browser, Go and Nix!
-My website -> [dayu.jp](https://dayu.jp/)
+<p align="left">
+No social skill.<br />
+I love Zen Browser, Go and Nix!<br />
+</p>
 
 ## Status
-<p align="left">
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
   <a href="https://x.com/dayu255">
-    <img height="30" src="https://img.shields.io/twitter/follow/dayu255?style=plastic&logo=x&label=%40dayu255&color=blue
-" />
+    <img height="30" src="https://img.shields.io/twitter/follow/dayu255?style=plastic&logo=x&label=%40dayu255&color=blue" />
   </a>
   <a href="https://github.com/dayu255">
     <img height="30" src="https://img.shields.io/github/followers/dayu255?label=follow&logo=github&style=flat" />
@@ -18,12 +20,16 @@ My website -> [dayu.jp](https://dayu.jp/)
 </p>
 
 ## Stats
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<p align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dayu255&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dayu255&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dayu255&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dayu255&theme=2077&utcOffset=9)
+</p>
 
-## Skills
+## Basic skills
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <p align="center">
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -37,6 +43,7 @@ My website -> [dayu.jp](https://dayu.jp/)
 </p>
 
 ## Studying
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <p align="center">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
